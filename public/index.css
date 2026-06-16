@@ -1,3 +1,8 @@
+/* アプリケーション画面の背景色を azure に変更 */
+body {
+    background-color: azure;
+}
+
   .content {
       width: 800px;
       margin: 0 auto;
@@ -15,4 +20,3 @@
       display: none;
       font-size: small;
   }
-
